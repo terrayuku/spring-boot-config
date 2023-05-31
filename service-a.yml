@@ -2,4 +2,4 @@ service-name: NewServiceNameA
 
 feature-toggles:
   serviceBAvailable: false
-  serviceNameAvailable: true
+  serviceNameAvailable: false
