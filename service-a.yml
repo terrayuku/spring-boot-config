@@ -1,1 +1,5 @@
 service-name: NewServiceNameA
+
+feature-toggles:
+  serviceBAvailable: true
+  serviceNameAvailable: false
