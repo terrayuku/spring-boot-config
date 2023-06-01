@@ -1,0 +1,7 @@
+
+product:
+  id: 100
+  name: Dark Inner Thigh Cream
+  productOnSpecial: false
+feature-toggles:
+  campaignEnabled: false
