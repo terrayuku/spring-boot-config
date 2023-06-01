@@ -1,7 +1,11 @@
 
 product:
-  id: 100
-  name: Dark Inner Thigh Cream
-  productOnSpecial: false
+  -
+    id: 100
+    name: Dark Inner Thigh Cream
+    productOnSpecial: false
+  - id: 101
+    name: Carrot Oil
+    productOnSpecial: false
 feature-toggles:
   campaignEnabled: false
